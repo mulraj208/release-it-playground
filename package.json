@@ -1,10 +1,10 @@
 {
   "name": "release-it-playground",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "release-it --ci --dry-run",
+    "release": "release-it --ci",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
