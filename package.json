@@ -4,13 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "release-it",
+    "release": "release-it --ci --dry-run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Mulraj Gupta <mulrajgupta208@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@release-it/bumper": "7.0.5",
     "@release-it/conventional-changelog": "10.0.1",
     "release-it": "19.0.3"
   }
