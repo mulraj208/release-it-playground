@@ -1,0 +1,17 @@
+{
+  "name": "release-it-playground",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "release-it",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Mulraj Gupta <mulrajgupta208@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "10.0.1",
+    "release-it": "19.0.3"
+  }
+}
