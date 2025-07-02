@@ -13,3 +13,4 @@
 ### fix: add bugfix 3
 ### fix: add bugfix 4
 ### fix: add bugfix 5
+### fix: add bugfix 6
