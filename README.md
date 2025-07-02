@@ -6,3 +6,4 @@
 ### feat: add test 5 page styles
 ### fix: add bugfix 1
 ### fix: add bugfix 2
+### refactor: add refactor 1
