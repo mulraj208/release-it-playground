@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.2.2](https://github.com/mulraj208/release-it-playground/compare/1.2.1...1.2.2) (2025-07-02)
+
+### Features
+
+* add test 7 page styles([82e9c4f618ce24a8a168522c654712a25d6b1162](https://github.com/mulraj208/release-it-playground/commit/82e9c4f618ce24a8a168522c654712a25d6b1162))          ([PKS-7](https://aiopsgroup.atlassian.net/browse/PKS-7))
+* add test 8 page styles([c867e99d3dc6bce926f9ee635eccd94535fa05b3](https://github.com/mulraj208/release-it-playground/commit/c867e99d3dc6bce926f9ee635eccd94535fa05b3))          ([PKS-8](https://aiopsgroup.atlassian.net/browse/PKS-8))
+
+### Bug Fixes
+
+* add bugfix 5([46a6f9bedd80b081b905dd8505fdae4dee138265](https://github.com/mulraj208/release-it-playground/commit/46a6f9bedd80b081b905dd8505fdae4dee138265))          ([PKS-5](https://aiopsgroup.atlassian.net/browse/PKS-5))
+* add bugfix 6([00006e59764835a58384ee44febe57c35e1f6c93](https://github.com/mulraj208/release-it-playground/commit/00006e59764835a58384ee44febe57c35e1f6c93))          ([PKS-6](https://aiopsgroup.atlassian.net/browse/PKS-6))
+
+### Miscellaneous Chores
+
+* add parseOpts([f93bce501ae90d01023533d5729538ebbea8226c](https://github.com/mulraj208/release-it-playground/commit/f93bce501ae90d01023533d5729538ebbea8226c))          ([PKS-9](https://aiopsgroup.atlassian.net/browse/PKS-9))
+
 ## [1.2.1](https://github.com/mulraj208/release-it-playground/compare/1.2.0...1.2.1) (2025-07-02)
 
 ### Features
