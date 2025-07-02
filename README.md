@@ -16,3 +16,5 @@
 ### fix: add bugfix 6
 ### feat: add test 7 page styles
 ### feat: add test 8 page styles
+### feat: add test 9 page styles
+### feat: add test 10 page styles
