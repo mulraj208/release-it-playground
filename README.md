@@ -7,3 +7,4 @@
 ### fix: add bugfix 1
 ### fix: add bugfix 2
 ### refactor: add refactor 1
+### refactor: add refactor 2
