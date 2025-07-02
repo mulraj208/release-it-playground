@@ -26,10 +26,6 @@ module.exports = {
       { type: 'security', section: 'Security', hidden: false }
     ]
   },
-  parserOpts: {
-    headerPattern: /^([A-Z]+-\d+) (\w*)(?:\(([^)]*)\))?: (.*)$/,
-    headerCorrespondence: ['jiraId', 'type', 'scope', 'subject']
-  },
   releaseRules: [
     { type: 'docs', release: 'patch' },
     { type: 'refactor', release: 'patch' }

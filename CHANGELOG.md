@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.1](https://github.com/mulraj208/release-it-playground/compare/1.2.0...1.2.1) (2025-07-02)
+
+### Features
+
+* add test 5 page styles([d6119e4f591b247c7f658410662f5225b6b915ae](https://github.com/mulraj208/release-it-playground/commit/d6119e4f591b247c7f658410662f5225b6b915ae))* add test 6 page styles([29bef3165b8e689f505fc77e1f9572604d2b8a9d](https://github.com/mulraj208/release-it-playground/commit/29bef3165b8e689f505fc77e1f9572604d2b8a9d))
+### Bug Fixes
+
+* add bugfix 3([f947eab89b97bd05959405804c511aa44e4541c7](https://github.com/mulraj208/release-it-playground/commit/f947eab89b97bd05959405804c511aa44e4541c7))* add bugfix 4([beb3cd1facd1816f841e8b91b51e7f7251d431fe](https://github.com/mulraj208/release-it-playground/commit/beb3cd1facd1816f841e8b91b51e7f7251d431fe))
+### Miscellaneous Chores
+
+* extract conventional-commits-parser.config.js([86e9aa7f149e4ee8a55aed7884b5fbfc54459a26](https://github.com/mulraj208/release-it-playground/commit/86e9aa7f149e4ee8a55aed7884b5fbfc54459a26))
+
 ## [1.2.0](https://github.com/mulraj208/release-it-playground/compare/1.1.0...1.2.0) (2025-07-02)
 
 ### Features
