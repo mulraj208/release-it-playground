@@ -1,0 +1,24 @@
+name: CI
+on:
+  push:
+    branches:
+      - main  # Only run this action when pushing to the 'main' branch
+      - release
+
+jobs:
+  generate-changelog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '20.19.1'
+      - run: npm ci
+
+      - name: Set Git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Release
+        run: npm run release
