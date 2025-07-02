@@ -12,3 +12,4 @@
 ### feat: add test 6 page styles
 ### fix: add bugfix 3
 ### fix: add bugfix 4
+### fix: add bugfix 5
