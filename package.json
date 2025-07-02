@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "release": "release-it --ci",
+    "release": "release-it --ci --dry-run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
