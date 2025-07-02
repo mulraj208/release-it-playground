@@ -4,3 +4,4 @@
 ### chore: testing chore 1
 ### feat: add test 4 page styles
 ### feat: add test 5 page styles
+### fix: add bugfix 1
